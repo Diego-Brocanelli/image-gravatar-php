@@ -85,7 +85,7 @@ class Image implements ImageInterface
         $image = "<img src='{$url}'";
 
         foreach ($this->getImageOptions() as $key => $value) {
-            $iamge .= ' ' . $key . '="'.$value.'"';
+            $image .= ' ' . $key . '="'.$value.'"';
         }
 
         $image .= '/>';
