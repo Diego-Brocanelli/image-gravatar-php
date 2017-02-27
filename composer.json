@@ -3,6 +3,7 @@
     "description": "Library for get images Gravatar",
     "type": "Library",
     "license": "BSD-3",
+    "version":"1.0",
     "authors": [
         {
             "name": "Diego Brocanelli",
@@ -10,6 +11,9 @@
         }
     ],
     "minimum-stability": "dev",
+    "require-dev": {
+        "php": ">=5.3.8"
+    },
     "autoload": {
         "psr-4":{
             "DiegoBrocanelli\\Gravatar\\":"src/Gravatar"
