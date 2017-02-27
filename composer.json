@@ -1,6 +1,6 @@
 {
     "name": "diego-brocanelli/image-gravatar-php",
-    "description": "aLibrary for get images Gravatar",
+    "description": "Library for get images Gravatar",
     "type": "Library",
     "license": "BSD-3",
     "authors": [
