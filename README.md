@@ -4,7 +4,7 @@ Biblioteca para pesquisar e obter imagens cadastradas no serviço Gravatar.
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/dc291bd6d6d6459e978653166a4c7061)](https://www.codacy.com/app/Diego-Brocanelli/image-gravatar-php?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Diego-Brocanelli/image-gravatar-php&amp;utm_campaign=Badge_Grade)
 [![Code Climate](https://codeclimate.com/github/Diego-Brocanelli/image-gravatar-php/badges/gpa.svg)](https://codeclimate.com/github/Diego-Brocanelli/image-gravatar-php)
-
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/6424e00b-3154-4716-bc25-03eec84e87dd/small.png)](https://insight.sensiolabs.com/projects/6424e00b-3154-4716-bc25-03eec84e87dd)
 
 ### Instalação 
 
