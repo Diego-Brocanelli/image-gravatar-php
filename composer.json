@@ -2,8 +2,7 @@
     "name": "diego-brocanelli/image-gravatar-php",
     "description": "Library for get images Gravatar",
     "type": "Library",
-    "license": "BSD-3",
-    "version":"1.0",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Diego Brocanelli",
