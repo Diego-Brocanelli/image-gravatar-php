@@ -152,3 +152,11 @@ $gravatar->setImageOptions(array('class' => 'image-gravatar'));
 
 $gravatar->buildImage(); // return: <img src='https://www.gravatar.com/avatar/dfeea822891ef9e6df82ec9f4a74cf8d?s=80&d=mm&r=g' class="image-gravatar"/>
 ```
+
+## Author
+
+[Diego Brocanelli Francisco](http://www.diegobrocanelli.com.br/)
+
+## License
+
+[MIT](https://github.com/Diego-Brocanelli/image-gravatar-php/blob/main/LICENSE)
