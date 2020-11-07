@@ -13,6 +13,8 @@ class Gravatar
     const MAXIMUM_RATING_LIST = [ 'g', 'pg', 'r', 'x' ];
     const ATTRIBUTES_LIST     = [
         'alt', 
+        'class',
+        'id',
         'crossorigin', 
         'height', 
         'ismap', 
