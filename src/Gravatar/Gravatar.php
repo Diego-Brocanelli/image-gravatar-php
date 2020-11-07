@@ -143,8 +143,7 @@ class Gravatar
      */
     public function setImageSet(string $value): void
     {
-        $value = trim($value);
-        $value = strip_tags($value);
+        $value = strip_tags( trim($value) );
 
         if( !in_array($value, self::IMAGE_SET_LIST) ){
             throw new \InvalidArgumentException("invalid value '{$value}'.");
@@ -171,8 +170,7 @@ class Gravatar
      */
     public function setMaxRating( string $maxRating): void
     {
-        $maxRating = trim($maxRating);
-        $maxRating = strip_tags($maxRating);
+        $maxRating = strip_tags( trim($maxRating) );
 
         if( !in_array($maxRating, self::MAXIMUM_RATING_LIST) ){
             throw new \InvalidArgumentException("invalid value '{$maxRating}'.");
